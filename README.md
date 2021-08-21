@@ -2,12 +2,12 @@
 
 **Name of company**: Compound Labs  
 
-**When was the company incorporated?** The company was incorporated in august 2017 [^1]
+**When was the company incorporated?** The company was incorporated in august 2017 [<sup>1</sup>](#1)
 
 **Who are the founders of the company?** Geoffrey Hayes, Robert Leshner 
 
 **How did the idea for the company (or project) come about?**
-Robert Leshner  and Geoffrey Hayes leveraged their experience from building a software company like safeshepherd [^2]</br>  (company specialized in removing users' personal information on the internet) ,</br>   leshner's experience as a product lead (Postmates) and financial industry's experience during the 2008 crisis (the great recession).</br> Fresh from this experience with the lack of transparency in traditional </br>markets, building products on a blockchain appeared attractive because [^3]:</br> 
+Robert Leshner  and Geoffrey Hayes leveraged their experience from building a software company like safeshepherd [<sup>2</sup>](#2)</br>  (company specialized in removing users' personal information on the internet) ,</br>   leshner's experience as a product lead (Postmates) and financial industry's experience during the 2008 crisis (the great recession).</br> Fresh from this experience with the lack of transparency in traditional </br>markets, building products on a blockchain appeared attractive because [<sup>3</sup>](#3):</br> 
 * It is open to everyone in the world: the development process is facilitated by the technology and the team of engineers can collaborate from anywhere in the world. This is contrary to traditional finance, which is limited by national financial systems that require local presence .</br>
 * The fact that the products are composable: you can build applications that interact within the ecosystem without permissions compared to the years of business development of partnerships in traditional finance 
 
@@ -17,7 +17,7 @@ There are been three iterations for the Compound product which aimed at create i
 
 **How is the company funded?** The company is funded by venture capital firms 
 
-**How much funding have they received?** The total funding amount to $33.2 million from 12 investors [^4]
+**How much funding have they received?** The total funding amount to $33.2 million from 12 investors [<sup>4</sup>](#4)
 
 ---
 # Business Activities 
@@ -33,13 +33,13 @@ The primary focus is the current retail banking customer through the compound fi
 The current borrowing and lending system requires the intermediation of banks to serve as credible lenders who use a complex system of credit rating and eligibility requirement to measure the ability of borrowers to repay the loan. Additionally, the customers are subject to lower rates for interest income as a result of banking fees and the current post-covid 19 monetary policy. 
 
 **Is there any information about the market size of this set of customers?**
-[^5]
+[<sup>5</sup>](#5)
 
 ![deposits and loans on compound protocol](./case-study/pictures/UserCount.png)</br>
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**</br>
 
-![Competitors](./case-study/pictures/Competitors.png)[^6]</br>
+![Competitors](./case-study/pictures/Competitors.png) [<sup>6</sup>](#6)</br>
 The competitor for this company are companies in the centralized and traditional finance space. The advantages compared to the competition are: 
 
 No nation, corporation or third party can control who has the right to borrow or lend on the Compound protocol (Censorship-resistant and permissionless) 
@@ -55,7 +55,7 @@ No nation, corporation or third party can control who has the right to borrow or
  
  
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-![Multi Layer Infrastructure](./case-study/pictures/infrastucture.png)[^7]
+![Multi Layer Infrastructure](./case-study/pictures/infrastucture.png)[<sup>7</sup>](#7)
 Source:  https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets </br>
 The domain of financial industry here is decentralized finance and the technological infrastructure here is the multi-layer architecture: 
 
@@ -147,17 +147,17 @@ The technology is appropriate for this solution because it removes the exclusive
  
 
 Sources:</br>
-[^1][Compound Labs incorporation](https://www.crunchbase.com/organization/compound-labs)
+1.<a class="anchor" id="1"></a>[Compound Labs incorporation](https://www.crunchbase.com/organization/compound-labs)
 
-[^2][Safeshepherd](https://www.crunchbase.com/organization/safe-shepherd#section-overview)
+2.<a class="anchor" id="2"></a>[Safeshepherd](https://www.crunchbase.com/organization/safe-shepherd#section-overview)
 
-[^3][Coinbase presentation](https://www.youtube.com/watch?v=R7pFVzOvUiw&ab_channel=Coinbase)
+3.<a class="anchor" id="3"></a>[Coinbase presentation](https://www.youtube.com/watch?v=R7pFVzOvUiw&ab_channel=Coinbase)
 
-[^4][funding source](https://www.crunchbase.com/organization/compound-labs/company_financials)
+4.<a class="anchor" id="4"></a>[funding source](https://www.crunchbase.com/organization/compound-labs/company_financials)
 
-[^5][deposits and loans on compound protocol](https://compound.finance/markets)
+5.<a class="anchor" id="5"></a>[deposits and loans on compound protocol](https://compound.finance/markets)
 
-[^6][Source: A primer on Decentralized Finance (DeFi) - July 2021 report Grayscale premier]
+6.<a class="anchor" id="6"></a>[Source: A primer on Decentralized Finance (DeFi) - July 2021 report Grayscale premier]
 
-[^7][Multi layer infrastructure](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+7.<a class="anchor" id="7"></a>[Multi layer infrastructure](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 
