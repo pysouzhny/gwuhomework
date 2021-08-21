@@ -4,7 +4,7 @@
 
 **When was the company incorporated?** The company was incorporated in august 2017 [^1]
 
-**Who are the founders of the company?**Geoffrey Hayes, Robert Leshner 
+**Who are the founders of the company?** Geoffrey Hayes, Robert Leshner 
 
 **How did the idea for the company (or project) come about?**
 Robert Leshner  and Geoffrey Hayes leveraged their experience from building a software company like safeshepherd [^2]</br>  (company specialized in removing users' personal information on the internet) ,</br>   leshner's experience as a product lead (Postmates) and financial industry's experience during the 2008 crisis (the great recession).</br> Fresh from this experience with the lack of transparency in traditional </br>markets, building products on a blockchain appeared attractive because [^3]:</br> 
