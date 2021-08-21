@@ -42,7 +42,7 @@ The current borrowing and lending system requires the intermediation of banks to
 ![Competitors](./case-study/pictures/Competitors.png) [<sup>6</sup>](#6)</br>
 The competitor for this company are companies in the centralized and traditional finance space. The advantages compared to the competition are: 
 
-No nation, corporation or third party can control who has the right to borrow or lend on the Compound protocol (Censorship-resistant and permissionless) 
+* No nation, corporation or third party can control who has the right to borrow or lend on the Compound protocol (Censorship-resistant and permissionless) 
 
 * Uninterrupted, fast transactions 24/7 
 
